@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1409085199 source:e:\projekty\codeblocks projects\dziennik_elektroniczny\dodaj_usun_przedmiot.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1409166042 source:e:\projekty\codeblocks projects\dziennik_elektroniczny\dodaj_usun_ucznia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1409088419 source:e:\projekty\codeblocks projects\dziennik_elektroniczny\funkcje_pomocnicze.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1409086344 source:e:\projekty\codeblocks projects\dziennik_elektroniczny\funkcje_pomocnicze_uczen.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1409087044 source:e:\projekty\codeblocks projects\dziennik_elektroniczny\main.c
+	<windows.h>
+	"dodaj_usun_przedmiot.h"
+	"dodaj_usun_ucznia.h"
+	"funkcje_pomocnicze.h"
+	"funkcje_pomocnicze_uczen.h"
+	"menu.h"
+	"srednia_i_oceny.h"
+	"wyswietlanie.h"
+
+1409085097 e:\projekty\codeblocks projects\dziennik_elektroniczny\dodaj_usun_przedmiot.h
+
+1409085097 e:\projekty\codeblocks projects\dziennik_elektroniczny\dodaj_usun_ucznia.h
+
+1409086023 e:\projekty\codeblocks projects\dziennik_elektroniczny\funkcje_pomocnicze.h
+
+1409086344 e:\projekty\codeblocks projects\dziennik_elektroniczny\funkcje_pomocnicze_uczen.h
+
+1409088781 e:\projekty\codeblocks projects\dziennik_elektroniczny\menu.h
+
+1409086147 e:\projekty\codeblocks projects\dziennik_elektroniczny\srednia_i_oceny.h
+
+1409086081 e:\projekty\codeblocks projects\dziennik_elektroniczny\wyswietlanie.h
+
+1409086209 source:e:\projekty\codeblocks projects\dziennik_elektroniczny\srednia_i_oceny.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1409086081 source:e:\projekty\codeblocks projects\dziennik_elektroniczny\wyswietlanie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1409088624 source:e:\projekty\codeblocks projects\dziennik_elektroniczny\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

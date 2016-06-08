@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1409088799 source:e:\projekty\codeblocks projects\projekt 1\dodaj_usun_przedmiot.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1409088810 source:e:\projekty\codeblocks projects\projekt 1\dodaj_usun_ucznia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1409089623 source:e:\projekty\codeblocks projects\projekt 1\funkcje_pomocnicze.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1409089944 source:e:\projekty\codeblocks projects\projekt 1\funkcje_pomocnicze_uczen.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1409090407 source:e:\projekty\codeblocks projects\projekt 1\main.c
+	<windows.h>
+	"dodaj_usun_przedmiot.h"
+	"dodaj_usun_ucznia.h"
+	"funkcje_pomocnicze.h"
+	"funkcje_pomocnicze_uczen.h"
+	"menu.h"
+	"srednia_i_oceny.h"
+	"wyswietlanie.h"
+
+1409088697 e:\projekty\codeblocks projects\projekt 1\dodaj_usun_przedmiot.h
+
+1409088697 e:\projekty\codeblocks projects\projekt 1\dodaj_usun_ucznia.h
+
+1409089623 e:\projekty\codeblocks projects\projekt 1\funkcje_pomocnicze.h
+
+1409089944 e:\projekty\codeblocks projects\projekt 1\funkcje_pomocnicze_uczen.h
+
+1409088611 e:\projekty\codeblocks projects\projekt 1\menu.h
+
+1409089747 e:\projekty\codeblocks projects\projekt 1\srednia_i_oceny.h
+
+1409089681 e:\projekty\codeblocks projects\projekt 1\wyswietlanie.h
+
+1409088837 source:e:\projekty\codeblocks projects\projekt 1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1409089809 source:e:\projekty\codeblocks projects\projekt 1\srednia_i_oceny.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1409089681 source:e:\projekty\codeblocks projects\projekt 1\wyswietlanie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
